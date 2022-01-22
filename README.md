@@ -10,7 +10,7 @@
     <a href="https://palkesh-baraiya.github.io/portfolio"> palkesh-baraiya.github.io/portfolio</a>
     <br />
     <br />
-    <a href="https://palkesh-baraiya.com">About Me</a>
+    <a href="https://palkesh-baraiya.github.io/portfolio/">About Me</a>
   </p>
 </p>
 
